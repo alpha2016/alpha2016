@@ -7,3 +7,6 @@
 
 - ⚡ Fun fact: 🐸
 
+### Github Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=alpha2016&show_icons=true)
